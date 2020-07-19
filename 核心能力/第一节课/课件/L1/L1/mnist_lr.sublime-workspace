@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"L",
+				"LogisticRegression"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"copy",
+				"File: Copy Name"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Prev",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageResourceV",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"findKeyConflicts",
+				"FindKeyConflicts: Overlap Conflicts"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/_6800/正课/learnBI/第一节课的练习/作业/mnist_cart.py",
+		"/C/Users/Administrator/Desktop/_6800/正课/learnBI/第一节课的练习/课件/L1/L1/mnist_lr.py",
+		"/C/Users/Administrator/Desktop/_6800/正课/learnBI/第一节课的练习/课件/L1/L1/mnist_keras.py",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/anaconda3.sublime-build",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Administrator/Desktop/_6800/正课/learnBI/第一节课的练习/课件/L1/L1/anaconda.sublime-project",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/ConvertToUTF8.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/package-metadata.json",
+		"/d/ProgramData/Anaconda3/lib/site-packages/sklearn/linear_model/__init__.py",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/release.sh",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/setup.py",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/anaconda.py",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/messages.json",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Packages/Default.sublime-package",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/Default.sublime-commands",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/AnacondaKite.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Anaconda/.no-sublime-package",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Python Django.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Desktop/_6800/正课/learnBI/第一节课的练习/笔记/Untitled.md",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Markdown.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/C/Users/Administrator/Desktop/_6800/正课/learnBI/第一节课的练习/课件/L1自测文档.xls",
+		"/C/Users/Administrator/Desktop/chazhi.m",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0da1a055390d0/matlab.sublime-build",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0da18d553465a/matlab.sublime-build",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0da163552a17f/matlab.sublime-build",
+		"/C/Users/Administrator/Desktop/mathJianmo/wuyi/test2.m",
+		"/C/Users/Administrator/Desktop/mathJianmo/wuyi/gm1.m",
+		"/C/Users/Administrator/Desktop/Matlab.sublime-syntax",
+		"/C/Users/Administrator/Desktop/Objective-C.sublime-syntax",
+		"/C/Users/Administrator/Desktop/Objective-C++.sublime-syntax",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d9fb654c179b/Objective-C.sublime-syntax",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d9f8554b57f4/Objective-C++.sublime-syntax",
+		"/C/Users/Administrator/Desktop/mathJianmo/files/niudunDiedai.m",
+		"/C/Users/Administrator/Desktop/mathJianmo/files/practice/meltingGlaciers.m",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d9f0f5498bd0/Matlab.sublime-syntax",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d9efc5493eb9/syntax_test_matlab.m",
+		"/C/Users/Administrator/Desktop/matlab-cn.m",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d9c5e53f07ac/Matlab.sublime-syntax",
+		"/C/Users/Administrator/Desktop/_6800/正课/第一节课/课件/L1/L1/mnist_keras.py",
+		"/C/Users/Administrator/Desktop/_6800/正课/第一节课/Untitled.md",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Package Control.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Administrator/Desktop/ss.sublime-workspace",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/MultiMarkdown.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/PackageResourceViewer.sublime-settings",
+		"/C/Users/Administrator/Desktop/ss.py",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/ll",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/SideBarEnhancements/Tab Context.sublime-menu",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/PackageResourceViewer/README.md",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/SideBarEnhancements/Commands.sublime-commands",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/SideBarEnhancements/Main.sublime-menu",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/python38.sublime-build",
+		"/C/Users/Administrator/Desktop/Test.java",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Desktop/s.py",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d6d554874dbd/JavaC.sublime-build",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d6d3f486f646/Java.sublime-syntax",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Java.sublime-build",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d6960477d71e/JavaC.sublime-build",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/BNZ.5f0d6925476ef9d/JavaC.sublime-build",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Packages/Java.sublime-package",
+		"/C/Users/Administrator/Desktop/s.java",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Python.sublime-build",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/SideBarEnhancements/Side Bar.sublime-menu",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/Base File.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/JSON.sublime-settings",
+		"/D/ProgramFileNew/IDE_sublime/SublimeText3/Sublime Text v4.0.0.4077 x64 ZH-CN/Sublime Text/Data/Packages/User/ColorHighlighter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mnist_lr.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,33 @@
+{
+    "build_systems":
+    [
+        {
+            "name": "Anaconda Python Builder",
+            "selector": "source.python",
+            "encoding": "utf-8", 
+            "env": {"PYTHONIOENCODING": "utf8",},//使编码一致
+            "shell_cmd": "D:/ProgramData/Anaconda3/python.exe -u \"$file\"",//解释器路径
+        }
+    ],
+    /*"folders":
+    [
+        {
+            /*"follow_symlinks": true,* /
+            "path": ".;%PATH%;D:\\ProgramData\\Anaconda3",
+        },
+        {
+			"path": "."
+		},
+    ],*/
+    "settings":
+    {
+        "python_interpreter": "D:/ProgramData/Anaconda3/python.exe", //解释器路径
+        
+    },
+    "folders":
+    [
+		{
+			"path": "C:\\Users\\Administrator\\Desktop\\_6800\\正课\\learnBI\\第一节课的练习"
+		}
+	],
+}
